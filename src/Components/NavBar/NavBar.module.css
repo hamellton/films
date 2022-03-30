@@ -1,0 +1,21 @@
+@media (min-width: 600px) { 
+    .nav {
+        width: 100px;
+        height: 84%;
+        background-color: rgb(216, 250, 216);
+        position: absolute;
+        top: 100px;
+        right: 10px;
+        text-align: center;
+    }
+   }
+
+@media (max-width: 600px) {
+    .nav {
+        width: 90%;
+        height: 70px;
+        margin: 0 auto;
+        background-color: rgb(216, 250, 216);
+        text-align: center;
+    }
+   }

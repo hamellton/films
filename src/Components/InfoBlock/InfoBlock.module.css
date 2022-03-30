@@ -1,0 +1,24 @@
+.infoContainer {
+    width: 200px;
+    min-height: 30px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.statusSuccess {
+    background-color: rgb(185, 255, 185);
+}
+.statusError {
+    background-color: rgb(255, 160, 160);
+}
+.statusNoResult {
+    background-color: rgb(214, 205, 205);
+}
+
+.button {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7DVjVuEvvD0DOY6BCmk2qymr0rtFivGhXQ&usqp=CAU) ;
+    cursor: pointer;
+    width: 100px;
+    margin-right: 5px;
+}

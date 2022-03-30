@@ -1,0 +1,21 @@
+@media (min-width: 600px) { 
+    .header {
+        width: 99%;
+        height: 70px;
+        background-color: rgb(248, 187, 136);
+        margin: 5px auto;
+        position: relative;
+        text-align: center;
+    }
+   }
+
+@media (max-width: 600px) {
+    .header {
+        width: 90%;
+        height: 70px;
+        background-color: rgb(248, 187, 136);
+        margin: 5px auto;
+        position: relative;
+        text-align: center;
+    }
+   }
